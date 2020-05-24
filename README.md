@@ -1,4 +1,4 @@
-# machine-learning-coursera-AndrewNG
+# machine-learning-coursera by Andrew NG
 
 This contains all the course work done for Machine Learning course offered by Coursera in collaboration with Stanford University. 
 
@@ -18,9 +18,6 @@ This contains all the course work done for Machine Learning course offered by Co
 
 
 	9. Recommender Systems 
-
-etc..
+	etc..
 
 ## All the exercises are done in Matlab/Octave. 
-
-# machine-learning-coursera-AndrewNG
