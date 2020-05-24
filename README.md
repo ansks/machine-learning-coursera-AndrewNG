@@ -1,4 +1,4 @@
-# machine-learning-coursera by Andrew NG
+# Machine Learning by Andrew NG
 
 This contains all the course work done for Machine Learning course offered by Coursera in collaboration with Stanford University. 
 
@@ -15,8 +15,6 @@ This contains all the course work done for Machine Learning course offered by Co
 	6. K-Means Clustering 
 	7. Dimensionality Reduction - Principal Components Analysis
 	8. Anomaly Detection - using Gaussian Distribution 
-
-
 	9. Recommender Systems 
 	etc..
 
