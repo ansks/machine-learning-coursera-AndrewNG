@@ -1,6 +1,6 @@
 # machine-learning-coursera-AndrewNG
 
-## This contains all the course work done for Machine Learning course offered by Coursera in collaboration with Stanford University. 
+This contains all the course work done for Machine Learning course offered by Coursera in collaboration with Stanford University. 
 
 ### In this course material, you will find following algorithms coded in Matlab:
 
